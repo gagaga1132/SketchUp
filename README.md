@@ -34,5 +34,6 @@ If you would like to contribute to the project, please review the [contribution 
 
 Authors 🧑‍💻
 - gagaga1132
-License 📜
+
+## License 📜
 [LICENSE](/LICENSE)
