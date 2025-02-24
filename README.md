@@ -3,6 +3,7 @@ SketchUp is a powerful 3D modeling tool used for a wide range of drawing applica
 
 > [!Tip]
 > System Requirements 🖥
+
 Operating System: Windows 10 or higher 🪟
 Processor: 2.1 GHz or higher ⚙️
 RAM: Minimum 8 GB (16 GB recommended) 🧠
