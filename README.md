@@ -16,8 +16,6 @@ SketchUp is a powerful 3D modeling tool used for a wide range of drawing applica
 ## Usage Examples 📊
 ![image](https://github.com/user-attachments/assets/7ec7cfee-8b6e-49d2-97e3-ca4ad6004e00)
 
-
-
 # Documentation 📚
 Complete documentation is available
 here
